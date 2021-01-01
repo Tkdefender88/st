@@ -1,5 +1,4 @@
 *.o
 st
-*.desktop
 *.orig
 *.diff
