@@ -8,7 +8,7 @@ Requirements
 In order to build st you need the Xlib header files.
 
 
- `$ sudo apt install libxft-dev`
+ `$ sudo apt install libxft-dev libharfbuzz-dev`
 
 
 Installation
