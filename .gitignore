@@ -2,3 +2,4 @@
 st
 *.orig
 *.diff
+patches/
