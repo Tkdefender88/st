@@ -21,6 +21,12 @@ necessary as root):
 
     make clean install
 
+For Emoji support
+-----------
+
+follow the steps in this page:
+
+https://maximilian-schillinger.de/articles/st-libxft-bgra-patch.html
 
 Running st
 ----------
